@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">FavoriteList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="_0">0</string>
+    <string name="latte">Latte</string>
+    <string name="imaprueba">imaPrueba</string>
+</resources>
